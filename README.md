@@ -1,9 +1,5 @@
 # hello-world  
-My practise repository  
-This is my brief description of hello-world  
-Changes  
-Another change  
-Final change  
+My practise repository just being used to practise Git at Github.  
 
 
 
